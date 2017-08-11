@@ -1,4 +1,4 @@
-Github pages repo for my domain. Basen on the following:
+Github pages repo for my domain. Based on the following:
 
 
 vida
