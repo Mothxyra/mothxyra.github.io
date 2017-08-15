@@ -16,30 +16,30 @@ h1 {
   font-family: Comfortaa;
 }
 
-/* merriweather-sans-regular - latin */
+/* titillium-web-regular - latin */
 @font-face {
-  font-family: 'Merriweather Sans';
+  font-family: 'Titillium Web';
   font-style: normal;
   font-weight: 400;
-  src: local('Merriweather Sans'), local('MerriweatherSans-Regular'),
-       url('../fonts/merriweather-sans-v8-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/merriweather-sans-v8-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local('Titillium Web Regular'), local('TitilliumWeb-Regular'),
+       url('../fonts/titillium-web-v5-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/titillium-web-v5-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-/* merriweather-sans-italic - latin */
+/* titillium-web-italic - latin */
 @font-face {
-  font-family: 'Merriweather Sans';
+  font-family: 'Titillium Web';
   font-style: italic;
   font-weight: 400;
-  src: local('Merriweather Sans Italic'), local('MerriweatherSans-Italic'),
-       url('../fonts/merriweather-sans-v8-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/merriweather-sans-v8-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local('Titillium Web Italic'), local('TitilliumWeb-Italic'),
+       url('../fonts/titillium-web-v5-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/titillium-web-v5-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-/* merriweather-end */
+/* titillium-end */
 
 
 @charset "utf-8";
 
-$base-font-family: Merriweather Sans,Helvetica, Arial, sans-serif;
+$base-font-family: Titillium Web, Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  0.875rem;
 $base-line-height: 1.5;
