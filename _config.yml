@@ -13,3 +13,6 @@ permalink: none
 # just leave someone empty to disable it
 google_analytics: UA-55374057-2
 disqus_shortname:
+include:
+  - .well-known
+  
