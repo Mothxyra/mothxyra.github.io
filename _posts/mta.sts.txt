@@ -1,4 +1,0 @@
----
-permalink: /.well-known/mta-sts.txt
----
-test
